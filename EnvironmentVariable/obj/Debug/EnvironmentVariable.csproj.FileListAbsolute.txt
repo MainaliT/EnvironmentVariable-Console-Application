@@ -1,0 +1,15 @@
+\\student\students\Computer\tnm9\MyDesktop\EnvironmentVariable\EnvironmentVariable\bin\Debug\EnvironmentVariable.exe.config
+\\student\students\Computer\tnm9\MyDesktop\EnvironmentVariable\EnvironmentVariable\bin\Debug\EnvironmentVariable.exe
+\\student\students\Computer\tnm9\MyDesktop\EnvironmentVariable\EnvironmentVariable\bin\Debug\EnvironmentVariable.pdb
+\\student\students\Computer\tnm9\MyDesktop\EnvironmentVariable\EnvironmentVariable\obj\Debug\EnvironmentVariable.csprojResolveAssemblyReference.cache
+\\student\students\Computer\tnm9\MyDesktop\EnvironmentVariable\EnvironmentVariable\obj\Debug\EnvironmentVariable.exe
+\\student\students\Computer\tnm9\MyDesktop\EnvironmentVariable\EnvironmentVariable\obj\Debug\EnvironmentVariable.pdb
+F:\Fifth Semester\GUI DEVELOPMENT\EnvironmentVariable\EnvironmentVariable\bin\Debug\EnvironmentVariable.exe.config
+F:\Fifth Semester\GUI DEVELOPMENT\EnvironmentVariable\EnvironmentVariable\obj\Debug\EnvironmentVariable.exe
+F:\Fifth Semester\GUI DEVELOPMENT\EnvironmentVariable\EnvironmentVariable\obj\Debug\EnvironmentVariable.pdb
+F:\Fifth Semester\GUI DEVELOPMENT\EnvironmentVariable\EnvironmentVariable\bin\Debug\EnvironmentVariable.exe
+F:\Fifth Semester\GUI DEVELOPMENT\EnvironmentVariable\EnvironmentVariable\bin\Debug\EnvironmentVariable.pdb
+F:\Fifth Semester\GUI DEVELOPMENT\EnvironmentVariable\EnvironmentVariable\obj\Debug\EnvironmentVariable.csprojResolveAssemblyReference.cache
+D:\Fifth Semester\GUI DEVELOPMENT\EnvironmentVariable\EnvironmentVariable\bin\Debug\EnvironmentVariable.exe.config
+D:\Fifth Semester\GUI DEVELOPMENT\EnvironmentVariable\EnvironmentVariable\obj\Debug\EnvironmentVariable.exe
+D:\Fifth Semester\GUI DEVELOPMENT\EnvironmentVariable\EnvironmentVariable\obj\Debug\EnvironmentVariable.pdb
